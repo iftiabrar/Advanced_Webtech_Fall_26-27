@@ -3,7 +3,7 @@
 ## Student Details
 | SL | Name | Student ID | Section |
 |----|------|-----------|---------|
-|  | Abrar Faiaz Siddiquy | 23-51842-2 | E |
+| 2 | Abrar Faiaz Siddiquy | 23-51842-2 | E |
 
 ## Database Setup
 1. Install PostgreSQL and create a database: `CREATE DATABASE product_management;`
