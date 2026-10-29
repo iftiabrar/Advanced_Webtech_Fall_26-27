@@ -18,21 +18,9 @@ pnpm start:dev
 ```
 Server runs at `http://localhost:5000`
 
-## Endpoints
-### Products
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | /products | Create a product |
-| GET | /products | Get all products |
-| GET | /products/:id | Get product by ID |
-| PATCH | /products/:id | Update product |
-| DELETE | /products/:id | Delete product |
+#Used Validators
 
-### Employees
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | /employees | Create an employee |
-| GET | /employees | Get all employees |
-| GET | /employees/:id | Get employee by ID |
-| PATCH | /employees/:id | Update employee |
-| DELETE | /employees/:id | Delete employee |
+1. @IsNumber
+2. @IsString
+3. @IsPassword
+
