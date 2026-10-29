@@ -1,4 +1,4 @@
-# Product Management API – Lab Task 1
+# User Validation – Lab Task 1
 
 ## Student Details
 | SL | Name | Student ID | Section |
