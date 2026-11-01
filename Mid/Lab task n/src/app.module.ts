@@ -8,6 +8,7 @@ import { BullModule } from "@nestjs/bull";
 import { UserModule } from "./modules/user/user.module";
 import { TestModule } from "./modules/test/test.module";
 import { UserValidatorModule } from "./modules/uservalidator/uservalidator.module";
+import { CreateUserModule } from "./modules/createuser/createuser.module";
 
 @Module({
   imports: [
